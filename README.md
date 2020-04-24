@@ -1,2 +1,2 @@
 # tampermonkey_phone_location
-油猴手机归属地插件
+油猴手机号归属地插件
